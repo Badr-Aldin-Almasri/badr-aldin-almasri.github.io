@@ -1,7 +1,10 @@
 # app-ads.txt for apps by Tatbeky (Badr Aldin Almasri) — Dart Rush, Tilt Puzzle
 OWNERDOMAIN=badr-aldin-almasri.github.io
 
-# ironSource Ads / Unity LevelPlay
+# Google AdMob (Dart Rush from 1.0.5; AdMob > Apps > app-ads.txt)
+google.com, pub-7776192840923458, DIRECT, f08c47fec0942fa0
+
+# ironSource Ads / Unity LevelPlay (Tilt Puzzle; Dart Rush up to 1.0.4)
 ironsrc.com, 687421, DIRECT
 
 # ironSource authorized resellers (https://docs.unity.com/en-us/grow/programmatic/ironsource-exchange/app-ads-txt)
